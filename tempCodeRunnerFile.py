@@ -1,0 +1,1 @@
+(zState[win[0]]),(zState[win[1]]),(zState[win[2]])
